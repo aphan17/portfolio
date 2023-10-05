@@ -7,7 +7,7 @@ const header = {
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'Ashley Phan hehehe long was here',
+  name: 'Ashley Phan',
   role: 'Full Stack Software Engineer',
   description:
     "I'm a Seattle-based software engineer who embarked on a career transition from healthcare to software development. Through my work in healthcare, I had a strong desire to improve access to quality resources for individuals. However, I realized that I could have an even greater impact by utilizing software to help bridge this gap. In the past year, I have been developing and furthering my skills by self-learning with resources like The Odin Project, taking Udemy courses, and recently completing the Hack Reactor Bootcamp. I'm excited to combine my past experiences with my newly acquired technical skills, aiming to craft inventive solutions and create a significant and positive impact.",
